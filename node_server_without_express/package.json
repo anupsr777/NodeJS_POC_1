@@ -1,0 +1,11 @@
+{
+  "name": "nodejs_poc_1",
+  "version": "1.0.0",
+  "description": "node server without express",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "anup",
+  "license": "ISC"
+}
